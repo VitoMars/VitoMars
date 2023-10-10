@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Vito Marseglia GitHub</h2>
-
 ###
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&height=20&lines=Hi+there%2C+I'm+Vito+%F0%9F%91%8B;I'm+a+Full+Stack+Web+and+Mobile+Developer" alt="Typing SVG" />
