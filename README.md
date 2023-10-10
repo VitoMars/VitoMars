@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Vito and I'm a Full Stack Web and Mobile Developer, from Italy</p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vito;I'm+a+Full+Stack+Web+and+Mobile+Developer" alt="Typing SVG" /></a>
+
 ###
 
 <p align="left">This is the place where I create, test and broke stuff.. 🤣</p>
