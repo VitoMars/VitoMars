@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi there 👋</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&height=20&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vito;I'm+a+Full+Stack+Web+and+Mobile+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&height=20&lines=Hi+there%2C+I'm+Vito+%F0%9F%91%8B;I'm+a+Full+Stack+Web+and+Mobile+Developer" alt="Typing SVG" />
 
 ###
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ I'm probably working on something cool right now..<br>📚 I'm currently learning everything 🤣<br>💬 Ask me about anything related to Javascript/Typescript and Frameworks<br>⚡ Fun fact: I always have a rubber duck in my desk 🐥<br>📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vito-marseglia)</p>
+<p align="left">✨ I'm probably working on something cool right now..<br>📚 I'm currently learning everything 🤣<br>💬 Ask me about anything related to Frameworks, I like to share opinions<br>⚡ Fun fact: I always have a rubber duck in my desk 🐥<br>📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vito-marseglia)</p>
 
 ###
 
