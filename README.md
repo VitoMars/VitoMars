@@ -39,19 +39,19 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
 </div>
 
