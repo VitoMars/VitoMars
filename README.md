@@ -153,4 +153,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/VitoMars/VitoMars/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/VitoMars/VitoMars/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###
