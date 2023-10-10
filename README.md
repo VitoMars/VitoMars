@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">My name is Vito and I'm a Full Stack Web and Mobile Developer, from Italy</h3>
+<p align="left">My name is Vito and I'm a Full Stack Web and Mobile Developer, from Italy</p>
+
+###
+
+<p align="left">This is the place where I create, test and broke stuff.. 🤣</p>
 
 ###
 
@@ -25,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning everything 🤣<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I'm probably working on something cool right now..<br>📚 I'm currently learning everything 🤣<br>💬 Ask me about anything related to Javascript/Typescript and Frameworks<br>⚡ Fun fact: I always have a rubber duck in my desk 🐥<br>📫 How to reach me: vito95v@gmail.com</p>
 
 ###
 
