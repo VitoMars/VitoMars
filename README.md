@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VitoMars/VitoMars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +25,13 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning everything 🤣<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since ... <br>
+📚 I'm currently learning everything 🤣<br>
+🎯 Goals: ...<br>
+⚡ Fun fact: ...
+📫How to reach me: vito95v@gmail.com
+</p>
 
 ###
 
